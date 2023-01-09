@@ -9,3 +9,4 @@ RICE LEAF DETECTION
 <br>
 kaggle link:https://www.kaggle.com/code/shayanriyaz/rice-crop-disease-detection-using-tensorflow/notebook <br>
 dataset:https://www.kaggle.com/datasets/shayanriyaz/riceleafs
+https://iotprojectsideas.com/iot-based-bidirectional-visitor-counter-using-esp8266-blynk/
