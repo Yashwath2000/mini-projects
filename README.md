@@ -8,5 +8,6 @@ https://thecleverprogrammer.com/2020/09/29/fake-currency-detection-with-machine-
 RICE LEAF DETECTION
 <br>
 kaggle link:https://www.kaggle.com/code/shayanriyaz/rice-crop-disease-detection-using-tensorflow/notebook <br>
-dataset:https://www.kaggle.com/datasets/shayanriyaz/riceleafs
+dataset:https://www.kaggle.com/datasets/shayanriyaz/riceleafs<br>
+iot:<br>
 https://iotprojectsideas.com/iot-based-bidirectional-visitor-counter-using-esp8266-blynk/
