@@ -11,3 +11,5 @@ kaggle link:https://www.kaggle.com/code/shayanriyaz/rice-crop-disease-detection-
 dataset:https://www.kaggle.com/datasets/shayanriyaz/riceleafs<br>
 iot:<br>
 https://iotprojectsideas.com/iot-based-bidirectional-visitor-counter-using-esp8266-blynk/
+rice project:<br>
+https://github.com/Supreethabolar/Rice-crop-Desease
