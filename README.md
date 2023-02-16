@@ -13,3 +13,5 @@ iot:<br>
 https://iotprojectsideas.com/iot-based-bidirectional-visitor-counter-using-esp8266-blynk/
 rice project:<br>
 https://github.com/Supreethabolar/Rice-crop-Desease
+rice Leaf Desease detection<br>
+https://github.com/Spidy20/Rice_Disease_prediction_GUI<br>
