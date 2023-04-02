@@ -15,3 +15,5 @@ rice project:<br>
 https://github.com/Supreethabolar/Rice-crop-Desease
 rice Leaf Desease detection<br>
 https://github.com/Spidy20/Rice_Disease_prediction_GUI<br>
+<br>
+new rice dataset; https://www.kaggle.com/datasets/minhhuy2810/rice-diseases-image-dataset
